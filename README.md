@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amcgivern723
 - 👀 I have a First Class Honours BSc in Computer Science
-- 🌱 I’m going to be studying Artifical Intellegence (Machine Learning) Masters in September 2021
-- 💞️ I’m looking to collaborate on Raspberry Pi 
 - 📫 How to reach me linkedin.com/in/aine-mcgivern-676a47172
 
 <!---

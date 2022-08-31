@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amcgivern723
 - 👀 I have a First Class Honours BSc in Computer Science
+- Currently a Graduate Developer for Sykes Cottages
 - 📫 How to reach me linkedin.com/in/aine-mcgivern-676a47172
 
 <!---
